@@ -1,2 +1,2 @@
-20243108 장민주
-kookmin Univ.
+20243108 software 장민주
+Seoul kookmin Univ.
